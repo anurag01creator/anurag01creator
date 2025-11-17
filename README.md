@@ -1,87 +1,100 @@
-<!-- Banner -->
-<h1 align="center">👋 Hi, I'm <strong>Anurag Sharma</strong></h1>
-<h3 align="center">Full-Stack Developer | MERN | Problem Solver | India</h3>
-
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anurag01creator&label=Profile%20Views&color=blue&style=plastic" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Anurag+Sharma+👋;SDE+at+Allied+Technical+Services;Full-Stack+Developer;AI+%26+MERN+Stack+Developer;DSA+Enthusiast+%F0%9F%92%AA" />
 </p>
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" height="80">
+
+<h3 align="center">Turning ideas into scalable products 🚀</h3>
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently building **Full-Stack Web Apps**
-- 🌱 Learning **MERN Stack (MongoDB • Express • React • Node)**
-- 💡 Skilled in **JavaScript, React, C++, APIs**
-- 💬 Ask me about **React, JavaScript, Frontend Development**
-- 📫 Reach me at **anurag09sharma27@gmail.com**
-- ⚡ Fun fact: I enjoy solving **DSA** & real-world problems
+- 💼 **Software Development Engineer @ Allied Technical Services**  
+- 🔭 Building **Full-Stack Web Applications & AI tools**  
+- 🤖 Working with **Next.js, MERN, OpenCV AI models**  
+- 📚 Improving skills in **System Design, Problem Solving**  
+- 💬 Ask me about **React, JavaScript, AI Integrations, Full-Stack Dev**  
+- 📩 Reach me at: **anurag09sharma27@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/anurag-sharma-328a11225" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/anurag-sharma-328a11225">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
-  <a href="https://www.leetcode.com/anurag09sharma27" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="40"/>
+  <a href="https://leetcode.com/anurag09sharma27">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" height="50" />
   </a>
-  <a href="https://www.hackerrank.com/anurag09sharma27" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
+  <a href="https://hackerrank.com/anurag09sharma27">
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="50" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,react,nodejs,express,mongodb,mysql,git,github,html,css,tailwind" />
+## 🛠️ Tech Stack (Animated)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,python,react,nextjs,nodejs,express,mongodb,mysql,tailwind,git,github,opencv" height="90" />
 </p>
 
 ---
 
 ## 📌 Featured Projects  
 
-### 🔥 **1. Full-Stack Expense Splitter (AI + Next.js)**  
-A modern AI-powered expense management tool.  
-**Tech:** Next.js 15, React 19, Convex, Prisma, Clerk, OpenAI  
-🔗 *Add GitHub link here*
+### 🦷 **1. Dental AI Diagnosis System (AI + CV + Web App)**  
+AI-powered app that analyzes teeth images using OpenCV + ML.  
+✨ *Detects dental issues + recommends treatment pathways*  
+**Tech:** React, Node.js, Python, OpenCV, Tailwind  
+🔗 Add link here
 
-### ⚡ **2. Medical Website Platform**  
-Doctor listing, appointment management, and quick contact features.  
+---
+
+### 🎥 **2. Remote Interview Platform (Live Video + IDE + Judge)**  
+A full remote interview system with video calls + coding editor.  
+✨ Monaco Editor, WebRTC, real-time scoring  
+**Tech:** Next.js, WebRTC, Node.js, Socket.io  
+🔗 Add link here
+
+---
+
+### 💸 **3. AI Expense Splitter (Next.js 15 + Convex + OpenAI)**  
+Automated expense tracking + AI-based suggestions.  
+**Tech:** Next.js, Clerk, Prisma, Convex, OpenAI  
+🔗 Add link here
+
+---
+
+### 🏥 **4. Medical Website Platform**  
+Doctor listing, appointment booking & emergency UI.  
 **Tech:** HTML, CSS, JS, Firebase  
-🔗 *Add GitHub link here*
-
-### ⚡ **3. OpenAI Modern Version Clone**  
-A modern AI interface clone with authentication and advanced UI.  
-**Tech:** React, Node, Tailwind, OpenAI API  
-🔗 *Add GitHub link here*
+🔗 Add link here
 
 ---
 
-## 📊 GitHub Stats  
+### 🤖 **5. Modern OpenAI UI Clone**  
+Chat interface with auth + fast AI responses.  
+**Tech:** React, Tailwind, OpenAI API  
+🔗 Add link here
+
+---
+
+## 📊 GitHub Stats (Animated)  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag01creator&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag01creator&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag01creator&show_icons=true&theme=react&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag01creator&layout=compact&theme=react&hide_border=true" height="170" />
 </p>
 
+---
+
+## 🔥 Streak Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag01creator&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anurag01creator&theme=react&hide_border=true" height="200" />
 </p>
 
 ---
 
-## 🏆 Achievements  
-- ⭐ 500+ LeetCode problems solved  
-- 💼 SDE Intern at **Maruti Suzuki**  
-- 🥈 Runner-up in multiple **Hackathons**  
-- 🚀 Built multiple full-stack real-world applications  
-
----
-
-## 💡 Quote  
-> “Build. Debug. Improve. Repeat.”
-
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**
+## 🐍 C
