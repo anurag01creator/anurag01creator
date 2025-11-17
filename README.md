@@ -97,4 +97,27 @@ Chat interface with auth + fast AI responses.
 
 ---
 
-## 🐍 C
+## 🐍 Contribution Snake Animation  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🏆 Achievements  
+- 💼 SDE @ Allied Technical Services  
+- 🧑‍💻 Ex–SDE Intern @ Maruti Suzuki  
+- ⭐ Solved **500+ problems on LeetCode**  
+- 🥈 Runner-up in multiple college hackathons  
+- 🚀 Built 10+ real-world full-stack apps  
+
+---
+
+## 💡 Quote  
+<p align="center">
+  <em>"Consistency beats motivation — build every day."</em>
+</p>
+
+---
+
+<p align="center">⭐ **Show some love by starring my repositories!** ⭐</p>
